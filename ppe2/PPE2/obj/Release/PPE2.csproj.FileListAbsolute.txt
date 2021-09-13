@@ -1,0 +1,11 @@
+C:\C#\ppe2\PPE2\bin\Release\PPE2.exe.config
+C:\C#\ppe2\PPE2\bin\Release\PPE2.exe
+C:\C#\ppe2\PPE2\bin\Release\PPE2.pdb
+C:\C#\ppe2\PPE2\obj\Release\PPE2.csprojAssemblyReference.cache
+C:\C#\ppe2\PPE2\obj\Release\PPE2.frmlLogin.resources
+C:\C#\ppe2\PPE2\obj\Release\PPE2.frmMain.resources
+C:\C#\ppe2\PPE2\obj\Release\PPE2.Properties.Resources.resources
+C:\C#\ppe2\PPE2\obj\Release\PPE2.csproj.GenerateResource.cache
+C:\C#\ppe2\PPE2\obj\Release\PPE2.csproj.CoreCompileInputs.cache
+C:\C#\ppe2\PPE2\obj\Release\PPE2.exe
+C:\C#\ppe2\PPE2\obj\Release\PPE2.pdb
